@@ -1,3 +1,7 @@
+# Project-Specific gitignores
+monitor_stocks_files/
+RECIPIENT_EMAIL.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
